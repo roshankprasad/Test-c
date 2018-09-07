@@ -4,6 +4,8 @@ int i,j,n;
 //printf("enter the value of n:\n");
 //scanf("%d",&n);
 
+printf("Hello World");
+
 for(i=1;i<=5;i++){
 	for(j=1;j<=9;j++){
 	
