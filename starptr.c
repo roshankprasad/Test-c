@@ -3,8 +3,6 @@ int main(){
 int i,j,n;
 //printf("enter the value of n:\n");
 //scanf("%d",&n);
-
-printf("Hello World");
 Printf("Hello Pondicherry");
 
 for(i=1;i<=5;i++){
