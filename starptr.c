@@ -3,7 +3,7 @@ int main(){
 int i,j,n;
 //printf("enter the value of n:\n");
 //scanf("%d",&n);
-Printf("Hello Pondicherry");
+Printf(" Star Pattern Program");
 
 for(i=1;i<=5;i++){
 	for(j=1;j<=9;j++){
